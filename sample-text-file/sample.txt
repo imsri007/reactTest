@@ -1,0 +1,12 @@
+Jim Smith | 123 Any Street | Boston | US | 02134
+Jane Lee | 248 Another St | Boston | US |02130
+Alex Mahone | 123 DPS | Delhi | India |0987
+John Smith | 456 St road | Bangalore | India |1232
+Tom Hanks , 345 left Street , London , UK , 53234
+Sung bae , 430 geonson st , Seoul , Korea , 68980
+Micheal Sco , 420 prison st , Illinois , USA , 8798
+Chris Jor , 9788 cross , Sydney , AUS , 56789
+Bren Mi - 567 abc st - CA - USA - 6789
+Roy Sut - 678 bdc da - NYC - USA - 7890
+Dave Ro - 5678 xyz - KBL - AFG - 6789
+Bran Tim - 098 yui - KOL - IND - 098
